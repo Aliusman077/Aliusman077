@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ali Usman </h1>
+<h3 align="center">Android Developer 👨‍💻</h3>
 💬 Ask me about  Android (Java, kotlin)<br><br>📫 How to reach me aliusmankhan077@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/ali-usman-a44548219<br><br>⚡ Fun fact I love to learn about software development
 
 
